@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  output: "standalone", // ✅ For Vercel deployment
   experimental: {
     serverActions: {
       bodySizeLimit: "100MB",
