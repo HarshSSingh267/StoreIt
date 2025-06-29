@@ -35,7 +35,6 @@
 
 ## 🤝 Author
 
-Built with passion by [**Harsh Singh**](https://www.linkedin.com/in/harsh-singh-267s)  
-GitHub: [HarshSSingh267](https://github.com/HarshSSingh267)  
+Built with passion by [**Harsh Singh**](https://www.linkedin.com/in/harsh-singh-267s)   
 Email: harshssingh267@gmail.com
 
