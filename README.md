@@ -1,14 +1,4 @@
 <div align="center">
-  <br />
-  <img src="public/readme/hero.png" alt="StoreIt Banner" />
-
-  <div style="margin-top: 1rem;">
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=white" />
-  </div>
-
   <h3>🚀 A clean, efficient file management platform built with love by Harsh Singh</h3>
 </div>
 
